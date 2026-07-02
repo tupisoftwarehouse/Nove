@@ -1,0 +1,1 @@
+enum NumberSystem { BINARY, OCTAL, DECIMAL, HEXADECIMAL }

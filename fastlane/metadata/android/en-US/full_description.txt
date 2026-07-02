@@ -1,0 +1,31 @@
+Nove is a fast, lightweight utility app that brings together essential calculation and conversion tools in a single place.
+
+Whether you need to perform calculations, convert units, calculate BMI, analyze text, or work with time values, Nove provides a clean and intuitive experience designed for everyday use.
+
+Features:
+
+• Calculator with expression evaluation and history
+• Length converter
+• Mass and weight converter
+• Area converter
+• Speed converter
+• Temperature converter
+• Time converter
+• Currency converter with up-to-date exchange rates
+• Binary, octal, decimal, and hexadecimal converter
+• BMI (Body Mass Index) calculator
+• Time calculator and time aggregator
+• Text information analyzer
+
+Designed with simplicity and performance in mind, Nove helps you complete common calculations and conversions quickly without unnecessary complexity.
+
+Why choose Nove?
+
+• Multiple utilities in one app
+• Clean and responsive interface
+• Accurate conversion formulas
+• Lightweight and easy to use
+• No account required
+• Privacy-friendly design
+
+Whether you're a student, professional, engineer, traveler, or simply need reliable everyday tools, Nove provides the utilities you need in a single convenient application.

@@ -1,0 +1,1 @@
+enum BodyMassIndexCategory { UNDERWEIGHT, NORMAL_WEIGHT, OVERWEIGHT, OBESE }

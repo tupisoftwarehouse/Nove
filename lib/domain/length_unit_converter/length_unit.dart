@@ -1,0 +1,11 @@
+enum LengthUnit {
+  KILOMETER,
+  METER,
+  CENTIMETER,
+  MILLIMETER,
+  MILE,
+  YARD,
+  FOOT,
+  INCH,
+  NAUTICAL_MILE,
+}

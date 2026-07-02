@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    constant_identifier_names: false
+    non_constant_identifier_names: false
+    prefer_function_declarations_over_variables: false
+    avoid_shadowing_type_parameters: false

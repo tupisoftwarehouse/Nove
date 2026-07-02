@@ -1,0 +1,31 @@
+Nove est une application utilitaire rapide et légère qui regroupe les principaux outils de calcul et de conversion au même endroit.
+
+Que vous ayez besoin d'effectuer des calculs, de convertir des unités, de calculer votre IMC, d'analyser du texte ou de manipuler des valeurs de temps, Nove offre une expérience simple, fluide et intuitive, pensée pour un usage quotidien.
+
+Fonctionnalités :
+
+• Calculatrice avec évaluation des expressions et historique
+• Convertisseur de longueurs
+• Convertisseur de masse et de poids
+• Convertisseur de surfaces
+• Convertisseur de vitesses
+• Convertisseur de températures
+• Convertisseur de temps
+• Convertisseur de devises avec taux de change à jour
+• Convertisseur binaire, octal, décimal et hexadécimal
+• Calculateur d'IMC (Indice de Masse Corporelle)
+• Calculatrice de temps et addition de durées
+• Analyseur d'informations textuelles
+
+Conçue pour être simple et performante, Nove vous permet d'effectuer rapidement vos calculs et conversions du quotidien, sans fonctionnalités superflues.
+
+Pourquoi choisir Nove ?
+
+• Plusieurs outils réunis dans une seule application
+• Interface claire, fluide et réactive
+• Formules de conversion précises
+• Application légère et facile à utiliser
+• Aucun compte requis
+• Respect de votre vie privée
+
+Que vous soyez étudiant, professionnel, ingénieur, voyageur ou que vous recherchiez simplement des outils fiables au quotidien, Nove met à votre disposition toutes les fonctions essentielles dans une seule application pratique.

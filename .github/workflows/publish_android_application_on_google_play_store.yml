@@ -1,0 +1,46 @@
+name: Publish Android Application on Google Play Store
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish_android_application_on_google_play_store:
+    runs-on: ubuntu-latest
+    env:
+      APPLICATION_kEY_PROPERTY_FILE_CONTENT: ${{ secrets.APPLICATION_kEY_PROPERTY_FILE_CONTENT }}
+      APPLICATION_kEY_FILE_CONTENT: ${{ secrets.APPLICATION_kEY_FILE_CONTENT }}
+      APPLICATION_VERSION: ${{secrets.APPLICATION_VERSION}}
+      APPLICATION_BUILD_NUMBER: ${{secrets.APPLICATION_BUILD_NUMBER}}
+      CLOUD_SERVICE_ACCOUNT_FILE_CONTENT: ${{ secrets.CLOUD_SERVICE_ACCOUNT_FILE_CONTENT }}
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-java@v5.4.0
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - uses: subosito/flutter-action@v2.23.0
+        with:
+          flutter-version: "3.44.4"
+
+      - uses: ruby/setup-ruby@v1.315.0
+        with:
+          ruby-version: "4.0.5"
+          bundler: "4.0.14"
+
+      - name: Run Project Tests
+        run: ./scripts/project_scripts/running_project_tests_on_linux_script.sh
+
+      - name: Configure Android Application
+        run: ./scripts/setting_up_android_application_script.sh
+
+      - name: Build Android Application Bundle
+        run: ./scripts/building_android_application_bundle_script.sh
+
+      - name: Configure Android Cloud Service Account
+        run: ./scripts/setting_up_android_cloud_service_account_script.sh
+
+      - name: Publish Application on Google Play Store
+        run: bundle exec fastlane android release

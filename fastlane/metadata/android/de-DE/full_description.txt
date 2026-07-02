@@ -1,0 +1,31 @@
+Nove ist eine schnelle und schlanke Utility-App, die die wichtigsten Rechen- und Umrechnungstools an einem Ort vereint.
+
+Ob Sie Berechnungen durchführen, Einheiten umrechnen, Ihren BMI berechnen, Texte analysieren oder mit Zeitwerten arbeiten möchten – Nove bietet eine übersichtliche und intuitive Benutzeroberfläche für den täglichen Gebrauch.
+
+Funktionen:
+
+• Rechner mit Ausdrucksauswertung und Verlauf
+• Längenumrechner
+• Massen- und Gewichtsumrechner
+• Flächenumrechner
+• Geschwindigkeitsumrechner
+• Temperaturumrechner
+• Zeitumrechner
+• Währungsumrechner mit aktuellen Wechselkursen
+• Umrechner für Binär-, Oktal-, Dezimal- und Hexadezimalzahlen
+• BMI-Rechner (Body-Mass-Index)
+• Zeitrechner und Zeitaddition
+• Textanalyse
+
+Nove wurde mit Fokus auf Einfachheit und Leistung entwickelt, damit Sie alltägliche Berechnungen und Umrechnungen schnell und unkompliziert erledigen können.
+
+Warum Nove?
+
+• Mehrere praktische Werkzeuge in einer App
+• Klare und reaktionsschnelle Benutzeroberfläche
+• Präzise Umrechnungsformeln
+• Leichtgewichtig und einfach zu bedienen
+• Keine Registrierung erforderlich
+• Datenschutzfreundliches Design
+
+Ob Student, Berufstätiger, Ingenieur, Reisender oder einfach auf der Suche nach zuverlässigen Alltagswerkzeugen – Nove bietet Ihnen alle wichtigen Berechnungs- und Umrechnungsfunktionen in einer einzigen praktischen App.
